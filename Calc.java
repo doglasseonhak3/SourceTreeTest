@@ -13,6 +13,7 @@ public abstract  class Calc
     public abstract int multiply(int a, int b);
     public abstract int multiply2(int a, int b);
     public abstract int Divide(int a, int b);
+    public abstract int Divide2(int a, int b);
 }
 
 // Add Sentence1
