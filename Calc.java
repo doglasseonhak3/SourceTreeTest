@@ -17,4 +17,3 @@ public abstract  class Calc
 
 // Add Sentence1
 // Add Sentence2
-// Add Sentence3
