@@ -14,3 +14,5 @@ public abstract  class Calc
     public abstract int multiply2(int a, int b);
 }
 }
+
+// Add Sentence1
