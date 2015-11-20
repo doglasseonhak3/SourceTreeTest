@@ -6,6 +6,8 @@ package com.example.ms_win.unittest;
  */
 public abstract  class Calc
 {
+	public int delete(int a, int b);
+
     public int sum(int a, int b)
     {
         return a + b;
