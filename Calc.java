@@ -24,6 +24,7 @@ public abstract  class Calc
     public abstract int MichealMethod(int a, int b);
 
 	public abstract int ConflictMethod(int a, int b);
+	public abstract int ConflictMethod2(int a, int b);
 }
 
 // Add Sentence1
