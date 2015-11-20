@@ -27,6 +27,7 @@ public abstract  class Calc
 	public abstract int ConflictMethod2(int a, int b);
 
 	public abstract int ConflictTool1(int a, int b);
+	public abstract int ConflictTool2(int a, int b);
 }
 
 // Add Sentence1
