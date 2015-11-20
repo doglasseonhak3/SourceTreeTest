@@ -12,6 +12,7 @@ public abstract  class Calc
     {
         return a + b;
     }
+	public abstract int Urgent(int a, int b);
     public abstract int multiply(int a, int b);
     public abstract int multiply2(int a, int b);
 
