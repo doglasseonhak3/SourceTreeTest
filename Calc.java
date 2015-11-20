@@ -19,6 +19,7 @@ public abstract  class Calc
     public abstract int Divide2(int a, int b);
     public abstract int Rotate(int a, int b);
     public abstract int DoglasMethod(int a, int b);
+    public abstract int MichealMethod(int a, int b);
 }
 
 // Add Sentence1
